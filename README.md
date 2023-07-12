@@ -26,7 +26,7 @@ Actuellement, je suis spécialisé dans le développement avec React et Node.js.
 <h2>Me contacter</h2>
 
 <p>
-Vous pouvez me contacter par email à <a href="mailto:monemail@example.com">monemail@example.com</a>.
+Vous pouvez me contacter par email à <a href="christian@trehand.fr">christian@trehand.fr</a>.
 </p>
 
 <h2>Compétences</h2>
@@ -34,31 +34,31 @@ Vous pouvez me contacter par email à <a href="mailto:monemail@example.com">mone
 <table>
   <tr>
     <td>Langages de programmation</td>
-    <td>Python, Java, JavaScript</td>
+    <td>HTML5, CSS3, JavaScript, PHP</td>
   </tr>
   <tr>
     <td>Frameworks / Libraries</td>
-    <td>React, Vue, Django</td>
+    <td>Wordpress</td>
   </tr>
   <tr>
     <td>Base de données</td>
-    <td>MySQL, PostgreSQL, MongoDB</td>
+    <td>MySQL</td>
   </tr>
   <tr>
     <td>Autres</td>
-    <td>Git, Docker, AWS</td>
+    <td>NPM, Babel, SASS, Figma</td>
   </tr>
 </table>
 
 <h2>Mes stats GitHub</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=VotreNom&show_icons=true&theme=radical" alt="Github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=TREHAND-Christian&show_icons=true&theme=radical" alt="Github stats">
 </p>
 
 <h2>Langages les plus utilisés</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNom&layout=compact" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TREHAND-Christian&layout=compact" alt="Top Langs">
 </p>
 
