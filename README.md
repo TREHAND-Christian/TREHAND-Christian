@@ -14,14 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<body style="color:blue;">
 <h1 style="color:blue;">Bienvenue à mon profil GitHub !</h1>
 
 <h2>À propos de moi</h2>
-
 <p>
-Je suis un développeur web passionné par l'apprentissage de nouvelles technologies. 
-Actuellement, je suis spécialisé dans le développement avec JavaScript et PHP.
+Ces quarante dernières années,j'ai acquis une connaissance approfondie des systèmes informatiques en tant que technicien
+en maintenance. C'est une compétence que je crois précieuse dans le développement web, où la
+résolution de problèmes et la compréhension de divers systèmes sont essentielles.
+</p>
+<p>
+La formation que je suis actuellement me permet de renforcer mes
+compétences techniques en développement WEB et WEB mobile. J'apprends les langages de
+programmation les plus courants comme HTML, CSS, JavaScript, mais aussi les pratiques récentes
+comme le développement d'applications mobiles réactives.
 </p>
 
 <h2>Me contacter</h2>
@@ -55,11 +60,5 @@ Vous pouvez me contacter par email à <a href="christian@trehand.fr">christian@t
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=TREHAND-Christian&show_icons=true&theme=radical&count_private=true" alt="Github stats">
-
-<h2>Langages les plus utilisés</h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TREHAND-Christian&layout=compact" alt="Top Langs">
-
 </p>
-</body>
 
