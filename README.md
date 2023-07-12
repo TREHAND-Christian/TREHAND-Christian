@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<body style="color:blue;">
 <h1 style="color:blue;">Bienvenue à mon profil GitHub !</h1>
 
 <h2>À propos de moi</h2>
@@ -60,4 +61,5 @@ Vous pouvez me contacter par email à <a href="christian@trehand.fr">christian@t
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TREHAND-Christian&layout=compact" alt="Top Langs">
 
 </p>
+</body>
 
