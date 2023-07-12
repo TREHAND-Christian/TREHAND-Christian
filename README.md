@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p>
 Je suis un développeur web passionné par l'apprentissage de nouvelles technologies. 
-Actuellement, je suis spécialisé dans le développement avec React et Node.js.
+Actuellement, je suis spécialisé dans le développement avec JavaScript et PHP.
 </p>
 
 <h2>Me contacter</h2>
@@ -53,12 +53,12 @@ Vous pouvez me contacter par email à <a href="christian@trehand.fr">christian@t
 <h2>Mes stats GitHub</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=TREHAND-Christian&show_icons=true&theme=radical" alt="Github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=TREHAND-Christian&show_icons=true&theme=radical&count_private=true" alt="Github stats">
 </p>
 
 <h2>Langages les plus utilisés</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TREHAND-Christian&layout=compact" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TREHAND-Christian&layout=compact&count_private=true" alt="Top Langs">
 </p>
 
