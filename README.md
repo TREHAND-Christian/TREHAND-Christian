@@ -54,11 +54,12 @@ Vous pouvez me contacter par email à <a href="christian@trehand.fr">christian@t
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=TREHAND-Christian&show_icons=true&theme=radical&count_private=true" alt="Github stats">
+
 </p>
 
 <h2>Langages les plus utilisés</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TREHAND-Christian&layout=compact&count_private=true" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TREHAND-Christian&show_icons=true&theme=radical&count_private=true" alt="Top Langs">
 </p>
 
