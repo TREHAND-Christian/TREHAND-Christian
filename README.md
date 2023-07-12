@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , Je suis Christian TREHAND !
 
 <!--
 **TREHAND-Christian/TREHAND-Christian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Compétences 
+
+```HTML
+<a href="https://example.com" style="color: blue;">Ceci est un lien bleu vers mon site web</a>
+<img src="https://example.com/mon-image.jpg" alt="Mon image" style="width: 200px;">
